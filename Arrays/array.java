@@ -100,3 +100,9 @@ Array with 50 inserted at position 5:
 [1, 2, 3, 4, 50, 5, 6, 7, 8, 9, 10]
 
 */
+/*
+***Time Complexity 
+The computational complexity for writing to and accessing an array is O(1). 
+No matter the number of elements in the array, the calculation to find the element in the array is single multiplication and addition.
+
+*/
